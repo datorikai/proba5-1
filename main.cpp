@@ -1,7 +1,6 @@
+
 #include <iostream>
-using namespace std;
+
 int main() {
-    
-  cout << "Olga Macko" << endl;
-  return 0;
+  std::cout << "Marina Juzova 5\n";
 }
